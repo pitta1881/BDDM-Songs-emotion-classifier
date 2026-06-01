@@ -1,0 +1,27 @@
+================================================================================
+RESUMEN COMPARATIVO: RF vs XGBoost
+================================================================================
+
+MEJOR MODELO POR CRITERIO:
+
+Accuracy:    Random Forest (0.5746)
+F1-Weighted: Random Forest (0.5615)
+F1-Macro:    Random Forest (0.4615)
+Velocidad:   XGBoost (496911 pred/s)
+
+TABLA COMPLETA:
+
+               Accuracy  Precision (weighted)  Recall (weighted)  F1 (weighted)  F1 (macro)  Tiempo predicción (s)  Velocidad (pred/s)
+Modelo                                                                                                                                
+Random Forest  0.574622              0.597767           0.574622       0.561455    0.461494               1.187118        91957.192912
+XGBoost        0.499853              0.575150           0.499853       0.515504    0.442373               0.219685       496911.311224
+
+F1-SCORE POR CLASE:
+
+Modelo   Random Forest   XGBoost   Mejor Modelo    Máx F1
+Clase                                                    
+anger         0.549282  0.549630        XGBoost  0.549630
+fear          0.227379  0.281819        XGBoost  0.281819
+joy           0.605000  0.517502  Random Forest  0.605000
+love          0.314521  0.297759  Random Forest  0.314521
+sadness       0.611290  0.565156  Random Forest  0.611290

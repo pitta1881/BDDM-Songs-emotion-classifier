@@ -1,0 +1,15 @@
+Best F1-weighted (validation): 0.5421
+
+Best hyperparameters:
+  learning_rate: 0.051949986398911144
+  max_depth: 7
+  min_child_weight: 9
+  subsample: 0.8398000823023118
+  colsample_bytree: 0.6952412256404539
+  gamma: 0.043408027068902344
+  n_estimators: 226
+
+Test metrics:
+  Accuracy: 0.4999
+  F1-Score (weighted): 0.5155
+  F1-Score (macro): 0.4424

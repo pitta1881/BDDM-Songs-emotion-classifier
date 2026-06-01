@@ -1,0 +1,2 @@
+# This file ensures the directory is tracked in git
+# Embedding parquet files will be stored here (train_embeddings.parquet, test_embeddings.parquet, pca_model.joblib)

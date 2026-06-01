@@ -1,0 +1,104 @@
+{
+  "group_importance": {
+    "embeddings_pca": 0.9455277317466642,
+    "numeric_features": 0.05447226825333587
+  },
+  "top_numeric_features": [
+    {
+      "name": "Key_mode",
+      "importance": 0.010927255745593705
+    },
+    {
+      "name": "Positiveness",
+      "importance": 0.0069971083821371875
+    },
+    {
+      "name": "Energy",
+      "importance": 0.005771577375886615
+    },
+    {
+      "name": "Popularity",
+      "importance": 0.003916922620212069
+    },
+    {
+      "name": "Liveness",
+      "importance": 0.0036882749063543415
+    },
+    {
+      "name": "Length_seconds",
+      "importance": 0.003629706274365794
+    },
+    {
+      "name": "Danceability",
+      "importance": 0.003553803964487836
+    },
+    {
+      "name": "Tempo",
+      "importance": 0.0035395931063378033
+    },
+    {
+      "name": "Good for Morning Routine",
+      "importance": 0.0033411397961848207
+    },
+    {
+      "name": "Explicit_binary",
+      "importance": 0.0026008053433812226
+    },
+    {
+      "name": "Speechiness",
+      "importance": 0.0024366793309260034
+    },
+    {
+      "name": "Time_signature",
+      "importance": 0.0015952444636712923
+    },
+    {
+      "name": "Acousticness",
+      "importance": 0.0008277303157729479
+    },
+    {
+      "name": "Key_tonic",
+      "importance": 0.00031377551521784785
+    },
+    {
+      "name": "Good for Party",
+      "importance": 0.00027770480611428625
+    },
+    {
+      "name": "Good for Social Gatherings",
+      "importance": 0.00023375189478301665
+    },
+    {
+      "name": "Good for Relaxation/Meditation",
+      "importance": 0.00022239363813945993
+    },
+    {
+      "name": "Loudness",
+      "importance": 0.00018465728884536152
+    },
+    {
+      "name": "Instrumentalness",
+      "importance": 0.00011068488927562426
+    },
+    {
+      "name": "Good for Driving",
+      "importance": 0.00010289084398388739
+    },
+    {
+      "name": "Good for Yoga/Stretching",
+      "importance": 7.086306062705816e-05
+    },
+    {
+      "name": "Good for Exercise",
+      "importance": 5.478495083188504e-05
+    },
+    {
+      "name": "Good for Work/Study",
+      "importance": 4.623185866831568e-05
+    },
+    {
+      "name": "Good for Running",
+      "importance": 2.8687881537485012e-05
+    }
+  ]
+}

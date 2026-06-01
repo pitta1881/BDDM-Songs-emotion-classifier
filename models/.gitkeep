@@ -1,0 +1,2 @@
+# This file ensures the directory is tracked in git
+# Trained models will be stored here (.joblib or .pkl files)

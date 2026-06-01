@@ -1,0 +1,11 @@
+{
+  "thresholds": {
+    "anger": 0.5,
+    "fear": 0.3,
+    "joy": 0.5,
+    "love": 0.4,
+    "sadness": 0.5
+  },
+  "f1_baseline": 0.46149428734276965,
+  "f1_adjusted": 0.4826341231824359
+}
